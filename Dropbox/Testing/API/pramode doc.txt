@@ -1,2 +1,0 @@
-https://www.getpostman.com/collections/559848b9c4a283f6c5ad
-https://learning.postman.com/docs/sending-requests/authorization/#bearer-token
